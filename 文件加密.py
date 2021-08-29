@@ -5,7 +5,6 @@
 
 注：如果解密失败，请检查密码是否正确
 """
-import tkinter
 from uuid import uuid1 as guid
 from pathlib import Path as Ph
 from os.path import splitext as st
